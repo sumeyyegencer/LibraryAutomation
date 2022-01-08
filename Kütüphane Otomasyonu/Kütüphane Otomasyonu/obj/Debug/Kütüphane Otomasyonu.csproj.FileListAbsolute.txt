@@ -1,0 +1,44 @@
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmAnaSayfa.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmUyeEkleme.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeListelemefrm.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapEklefrm.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapListelemefrm.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmAnaSayfa.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapEklefrm.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapListelemefrm.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmUyeEkleme.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeListelemefrm.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetKitapVerfrm.resources
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmAnaSayfa.resources
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetKitapVerfrm.resources
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapEklefrm.resources
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapListelemefrm.resources
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmUyeEkleme.resources
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeListelemefrm.resources
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Sümmeye PC\Desktop\Yazılım\PROJELER\FormsUygulamaları\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
